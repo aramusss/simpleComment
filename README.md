@@ -18,7 +18,7 @@ Method description WITH params and returns <br>
   @param paramName paramDescription <br>
   @return returnDescription
 ```
-/** Method description 
+/** Will fry a potato
 * @param potato Potato's name.
 * @return Returns a friedPotato.
 */
